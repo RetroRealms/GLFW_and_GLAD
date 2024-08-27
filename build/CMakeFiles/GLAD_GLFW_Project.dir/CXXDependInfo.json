@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+	"dir-cur-src" : "C:/Users/ozgur/Desktop/GLFW_and_GLAD",
+	"dir-top-bld" : "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+	"dir-top-src" : "C:/Users/ozgur/Desktop/GLFW_and_GLAD",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include",
+		"C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build/CMakeFiles/GLAD_GLFW_Project.dir"
+}

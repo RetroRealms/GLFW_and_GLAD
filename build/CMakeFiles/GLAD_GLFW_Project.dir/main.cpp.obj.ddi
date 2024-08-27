@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\GLAD_GLFW_Project.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\vc140.pdb",
+                "CMakeFiles\\GLAD_GLFW_Project.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

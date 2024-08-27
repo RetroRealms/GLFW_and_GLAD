@@ -1,0 +1,140 @@
+[
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\glad.dir\\src\\glad.c.obj /FdCMakeFiles\\glad.dir\\glad.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\src\\glad.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\src\\glad.c",
+  "output": "CMakeFiles\\glad.dir\\src\\glad.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi @CMakeFiles\\GLAD_GLFW_Project.dir\\main.cpp.obj.modmap /FoCMakeFiles\\GLAD_GLFW_Project.dir\\main.cpp.obj /FdCMakeFiles\\GLAD_GLFW_Project.dir\\ /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\main.cpp",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\main.cpp",
+  "output": "CMakeFiles\\GLAD_GLFW_Project.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\context.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\context.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\init.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\init.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\input.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\input.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\monitor.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\monitor.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\platform.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\platform.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\vulkan.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\vulkan.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\window.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\window.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\egl_context.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\egl_context.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\osmesa_context.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\osmesa_context.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\null_init.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\null_init.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\null_monitor.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\null_monitor.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\null_window.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\null_window.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\null_joystick.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\null_joystick.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_module.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_module.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_time.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_time.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_thread.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_thread.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_init.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_init.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_joystick.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_joystick.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_monitor.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_monitor.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_window.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\win32_window.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/ozgur/Desktop/GLFW_and_GLAD/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\include -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src -IC:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\build\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zi /W3 /Foglfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /Fdglfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\wgl_context.c",
+  "file": "C:\\Users\\ozgur\\Desktop\\GLFW_and_GLAD\\glfw\\src\\wgl_context.c",
+  "output": "glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+}
+]
